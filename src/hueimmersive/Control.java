@@ -12,7 +12,7 @@ public class Control
 {
 	public static boolean immersiveProcessIsActive = false;
 	private Timer captureLoop;
-	private int transitionTime = 5;
+	private int transitionTime = 1;
 	
 	private double lastAutoSwitchBri;
 
